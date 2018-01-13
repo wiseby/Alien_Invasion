@@ -1,5 +1,8 @@
 # This is the gitignore file for excluding files for git! Add files to ignore here:
 
+# Mac hidden files.
+._
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
