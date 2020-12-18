@@ -1,12 +1,12 @@
 # alien_invasion
 
 Classic game controlling a ship to shot down aliens from the sky. 
-Following a Tutorial from the book from No Starch Press, Python Crasch Course.
+Following a Tutorial from the book "Python Crasch Course" by publisher "No Starch Press".
 
 MainMenu
 ========
 ![AlienInvasion Menu](/AlienInvasionPyGameMain.jpg)
 
-MainMenu
+InGame
 ========
 ![AlienInvasion InGame](/AlienInvasionPyGameInGame.jpg)
